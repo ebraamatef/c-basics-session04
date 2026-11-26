@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\bin\Debug\net10.0\c-basics-session04.exe
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\bin\Debug\net10.0\c-basics-session04.deps.json
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\bin\Debug\net10.0\c-basics-session04.runtimeconfig.json
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\bin\Debug\net10.0\c-basics-session04.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\bin\Debug\net10.0\c-basics-session04.dll
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\bin\Debug\net10.0\c-basics-session04.pdb
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\c-basics-session04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\c-basics-session04.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\c-basics-session04.AssemblyInfo.cs
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\c-basics-session04.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\c-basics-session04.dll
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\refint\c-basics-session04.dll
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\c-basics-session04.pdb
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\c-basics-session04.genruntimeconfig.cache
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\ref\c-basics-session04.dll
+C:\Users\DELL\source\repos\c-basics-session04\c-basics-session04\obj\Debug\net10.0\c-basics.2A7B77D3.Up2Date

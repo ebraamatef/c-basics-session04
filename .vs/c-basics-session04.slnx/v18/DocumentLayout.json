@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\c-basics-session04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE2899F-18DD-48A8-A3EC-90D19FB75D39}|c-basics-session04\\c-basics-session04.csproj|c:\\users\\dell\\source\\repos\\c-basics-session04\\c-basics-session04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE2899F-18DD-48A8-A3EC-90D19FB75D39}|c-basics-session04\\c-basics-session04.csproj|solutionrelative:c-basics-session04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\c-basics-session04\\c-basics-session04\\Program.cs",
+              "RelativeDocumentMoniker": "c-basics-session04\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\c-basics-session04\\c-basics-session04\\Program.cs",
+              "RelativeToolTip": "c-basics-session04\\Program.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAKUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T19:06:42.522Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
